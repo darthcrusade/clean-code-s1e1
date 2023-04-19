@@ -66,8 +66,7 @@
 }
 
 /* Heading */
-.title,
-.label[for='new-task'] {
+.title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -95,7 +94,7 @@
 }
 
 /* New Task */
-.label[for='new-task'] {
+.add-task__title {
   display: block;
   margin: 0 0 20px;
 }
