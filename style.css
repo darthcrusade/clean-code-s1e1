@@ -12,7 +12,7 @@
   text-align: right;
 }
 
-.about-image{
+.about-image {
   width: 100%;
 }
 
@@ -29,7 +29,7 @@
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task-wrapper {
@@ -45,7 +45,7 @@
   list-style: none;
 }
 
-.input,.button{
+.input,.button {
   outline: none;
 }
 
@@ -128,7 +128,7 @@
 }
 
 .tasks-list__item > .input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 
 .delete__image {
@@ -149,12 +149,12 @@
 
 /* Edit Task */
 .tasks-list__item .input[type="text"] {
-  display: none
+  display: none;
 }
 
 .tasks-list__item.edit-mode .input[type="text"] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .tasks-list__item.edit-mode label {
