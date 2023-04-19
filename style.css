@@ -41,11 +41,13 @@
   padding: 0;
 }
 
-.tasks-list__item, .title {
+.tasks-list__item,
+.title {
   list-style: none;
 }
 
-.input,.button {
+.input,
+.button {
   outline: none;
 }
 
@@ -157,7 +159,7 @@
   width: 224px;
 }
 
-.tasks-list__item.edit-mode label {
+.tasks-list__item.edit-mode .label {
   display: none;
 }
 
